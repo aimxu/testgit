@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include"add.h"
 #include"mul.h"
+#include"dec.h"
 main
 {
 	printf("hello world\n");
